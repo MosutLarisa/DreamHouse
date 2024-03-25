@@ -20,6 +20,12 @@ function draw() {
     fill("brown")
     rect(600, 160, 50, 100);
 
+    
+    //window
+    fill("lightblue")
+    rect(600, 350, 60, 85);
+    rect(540, 350, 60, 85);
+
 
 
 
