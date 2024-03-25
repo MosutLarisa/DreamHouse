@@ -9,5 +9,8 @@ function draw() {
     //house
     fill("orange");
     rect(300, 300, 400, 250);
+    fill("brown")
+    triangle(280, 300, 500, 130, 720, 300);
+
 
 }
