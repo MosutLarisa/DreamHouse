@@ -12,5 +12,15 @@ function draw() {
     fill("brown")
     triangle(280, 300, 500, 130, 720, 300);
 
+    //door
+    fill("brown");
+    rect(380, 420, 75, 130);
+
+    //horn
+    fill("brown")
+    rect(600, 160, 50, 100);
+
+
+
 
 }
